@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrDev139
+- 👀 I’m interested in Game development(mainly Minecraft and unity), Unix-Like administration and Ethical hacking
+- 🌱 I’m currently learning C++, but i'm decent in Java and C#! and okay in nodejs, python, sh and html/css(basic)
+- 💞️ I’m looking to collaborate on any projects.
+- 📫 Reach me on Discord: Mr.Dev#5599
